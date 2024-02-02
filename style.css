@@ -1,0 +1,26 @@
+body {
+    margin: 0px auto;
+}
+
+.work_six {
+	margin-left: 150px;
+	width: 400px;
+}
+.calc {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	margin-top: 15px;
+}
+.calc__style {
+	display: flex;
+	justify-content: center;
+	gap: 5px;
+}
+.calc__style button {
+	height: 40px;
+	width: 40px;
+}
+#result__calc{
+	width: 168px;
+}
